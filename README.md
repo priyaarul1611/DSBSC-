@@ -67,16 +67,13 @@ s=s1-s2;
 subplot(3,1,3);
 plot(t,s);
 ```
-
-
 Output Graph
 
 ![dsb 1](https://github.com/user-attachments/assets/23102f88-0812-4650-9627-5c72d7b5dae6)
 
-
 Tablular Column
 
-![dsb cal](https://github.com/user-attachments/assets/167bd149-4e3d-4d4c-85c4-d6b6986e6445)
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/6d321b2b-a764-493e-9990-5430c849a864" />
 
 Result
 
